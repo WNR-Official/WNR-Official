@@ -1,5 +1,5 @@
 <img src="https://github.com/user-attachments/assets/3604b109-829c-47d9-889e-792434b8d34d" style="display: block; margin: auto;" />
-<h1 align="center">Hi 👋, I'm MUHAMMAD WALEED</h1>
+<h1 align="center">Salam 👋, I'm MUHAMMAD WALEED</h1>
 <h2 align="center">An Ardent | Innovative Developer | Proudly Representing PAKISTAN 🇵🇰.</h2>
 
 <img align="right" height="250" src="https://github.com/user-attachments/assets/b5791886-6dc6-4a53-816c-f0b6e8ff4e64"  />
