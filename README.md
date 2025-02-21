@@ -37,7 +37,7 @@ That's it.
 <p align="left"><h2>To view My Resume Click below:</h2></p>
 <img align="right" width="550" height="300" src="https://github.com/user-attachments/assets/3384b601-02a8-461a-9928-f6ba9e41e613" />
 <p align="left"> <a href="CV WALEED_pages-to-jpg-0001.jpg" target="blank"><img  src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-2.gif" height="180" alt="wnr"  /></a></p>
-<p align="left">This cv shows a little bit about my skills and hobbies.</p>
+<p align="left">Click to catch visuals.</p>
 
 <p align="left"> <a href="https://www.instagram.com/w.n.r._.wali._.01/" target="blank"><img src="https://img.shields.io/twitter/follow/waleed naeem?logo=twitter&style=for-the-badge" width="300px" alt="waleed naeem" /></a> </p>
 
