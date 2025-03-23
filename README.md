@@ -57,7 +57,7 @@ That's it.
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://twitter.com/waleed naeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waleed naeem" height="30"  /></a>
+<a href="https://x.com/wnr_wali_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waleed naeem" height="30"  /></a>
 <a href="https://www.facebook.com/waleed.naeem.5682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waleed naeem" height="30"  /></a>
 <a href="https://instagram.com/w.n.r._.wali._.01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w.n.r._.wali._.01/" height="30"  /></a>
 <a href="https://www.youtube.com/@w.n.r._.wali._.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wnr" height="30"  /></a>
