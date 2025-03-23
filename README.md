@@ -62,6 +62,19 @@ That's it.
 <a href="https://instagram.com/w.n.r._.wali._.01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w.n.r._.wali._.01/" height="30"  /></a>
 <a href="https://www.youtube.com/@w.n.r._.wali._.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wnr" height="30"  /></a>
 </p>
+GitHub -> https://github.com/W-N-R
+Instagram -> https://www.instagram.com/w.n.r..wali..01/
+X-twitter -> https://x.com/wnr_wali_01
+Gravatar -> https://gravatar.com/wnr01
+Patreon -> https://www.patreon.com/c/W_N_R
+Facebook -> https://www.facebook.com/waleed.naeem.5682
+E-mail -> waleednaeem133@gmail.com
+E-mail -> wnr2901@gmail.com
+school E-mail -> l246023@lhr.nu.edu.pk
+
+______________
+
+
 
 <h1 align="left">Languages and Tools:</h1>
 <br>
