@@ -162,6 +162,6 @@ ____________________
 
 <h>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=5000&color=39ff14&center=true&vCenter=true&width=600&lines=looking+for+more+❓;Stay+tuned+for+more+exciting+projects+!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=5000&color=39ff14&center=true&vCenter=true&width=750&lines=looking+for+more+❓;Stay+tuned+for+more+exciting+projects+!+🚀)](https://git.io/typing-svg)
 
 </h1>
