@@ -51,6 +51,16 @@ That's it.
 - 💬 Ask me about **C++, logo designing, Graphic Designing, Web development**
 
 - 📫 How to reach me **waleednaeem133@gmail.com**
+- GitHub -> https://github.com/W-N-R
+- Instagram -> https://www.instagram.com/w.n.r..wali..01/
+- X-twitter -> https://x.com/wnr_wali_01
+- Gravatar -> https://gravatar.com/wnr01
+- Patreon -> https://www.patreon.com/c/W_N_R
+- Wordpress -> https://wnr01.wordpress.com/
+- Facebook -> https://www.facebook.com/waleed.naeem.5682
+- E-mail -> waleednaeem133@gmail.com
+- E-mail -> wnr2901@gmail.com
+- school E-mail -> l246023@lhr.nu.edu.pk
 
 - 📄 Know about my experiences [(cv.waleed.pdf)](https://github.com/W-N-R/W-N-R/blob/main/CV%20WALEED_pages-to-jpg-0001.jpg)
 </div>
