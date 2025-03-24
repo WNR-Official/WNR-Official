@@ -35,13 +35,14 @@ That's it.
 ****************************
 
 <p align="left"><h2>To view My Resume Click below:</h2></p>
-<img align="right" width="550" height="300" src="https://github.com/user-attachments/assets/3384b601-02a8-461a-9928-f6ba9e41e613" />
+<img align="right" width="450" height="250" src="https://github.com/user-attachments/assets/3384b601-02a8-461a-9928-f6ba9e41e613" />
 <p align="left"> <a href="CV WALEED_pages-to-jpg-0001.jpg" target="blank"><img  src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-2.gif" height="180" alt="wnr"  /></a></p>
 <p align="left">Click to catch visuals.</p>
 
-<p align="left"> <a href="https://www.instagram.com/w.n.r._.wali._.01/" target="blank"><img src="https://img.shields.io/twitter/follow/waleed naeem?logo=twitter&style=for-the-badge" width="300px" alt="waleed naeem" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/w.n.r._.wali._.01/" target="blank"><img src="https://img.shields.io/twitter/follow/waleed naeem?logo=twitter&style=for-the-badge" width="200px" alt="waleed naeem" /></a> </p>
 
 <div align="left">
+  
 - 🔭 I’m currently working on **Web development & C++**
 
 - 🌱 I’m currently learning **HTML, CSS, JAVA, C++, PYTHON, PHOTOSHOP, CANVA, CAPCUT, ADOBE ILLUSTRATER, BLENDER**
@@ -49,6 +50,8 @@ That's it.
 - 👨‍💻 All of my projects are available at [wnr.github.io](wnr.github.io)
 
 - 💬 Ask me about **C++, logo designing, Graphic Designing, Web development**
+
+<h1 align="left">Connect with me:</h1>
 
 - 📫 How to reach me **waleednaeem133@gmail.com**
 - GitHub -> https://github.com/W-N-R
@@ -65,24 +68,16 @@ That's it.
 - 📄 Know about my experiences [(cv.waleed.pdf)](https://github.com/W-N-R/W-N-R/blob/main/CV%20WALEED_pages-to-jpg-0001.jpg)
 </div>
 
-<h1 align="left">Connect with me:</h1>
+
 <p align="left">
 <a href="https://x.com/wnr_wali_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waleed naeem" height="30"  /></a>
 <a href="https://www.facebook.com/waleed.naeem.5682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waleed naeem" height="30"  /></a>
 <a href="https://instagram.com/w.n.r._.wali._.01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w.n.r._.wali._.01/" height="30"  /></a>
 <a href="https://www.youtube.com/@w.n.r._.wali._.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wnr" height="30"  /></a>
 </p>
-GitHub -> https://github.com/W-N-R
-Instagram -> https://www.instagram.com/w.n.r..wali..01/
-X-twitter -> https://x.com/wnr_wali_01
-Gravatar -> https://gravatar.com/wnr01
-Patreon -> https://www.patreon.com/c/W_N_R
-Facebook -> https://www.facebook.com/waleed.naeem.5682
-E-mail -> waleednaeem133@gmail.com
-E-mail -> wnr2901@gmail.com
-school E-mail -> l246023@lhr.nu.edu.pk
 
-______________
+
+____________________
 
 
 
