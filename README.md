@@ -1,5 +1,9 @@
 <img src="https://github.com/user-attachments/assets/3604b109-829c-47d9-889e-792434b8d34d" style="display: block; margin: auto;" />
-<h1 align="center">Salam 👋, I'm MUHAMMAD WALEED</h1>
+<h1 align="center"> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=3500&color=Ffffff&center=true&vCenter=true&width=950&lines=Salam+👋+,+Muhammad+Waleed+here!;Welcome+to+My+GitHub+☕🍪!;See+what+I’m+building!+🏗️!;Explore+my+GitHub+for+awesome+stuff+🌟!)](https://git.io/typing-svg)
+
+</h1>
 <h2 align="center">An Ardent | Innovative Developer | Proudly Representing PAKISTAN 🇵🇰.</h2>
 
 <img align="right" height="250" src="https://github.com/user-attachments/assets/b5791886-6dc6-4a53-816c-f0b6e8ff4e64"  />
@@ -155,3 +159,9 @@ ____________________
 <img src="https://logodownload.org/wp-content/uploads/2018/05/autodesk-logo-8.png" height="40" alt="csharp logo"  />
   <img src="https://logodownload.org/wp-content/uploads/2018/05/autocad-logo.png" height="40" alt="csharp logo"  /></a>
 </div>
+
+<h>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=2000&color=FFFF00&center=true&vCenter=true&width=600&lines=Muhammad+Waleed+is+here;Welcome+to+My+GitHub!;Coding+is+fun!;Let's+build+something+awesome!)](https://git.io/typing-svg)
+
+</h1>
