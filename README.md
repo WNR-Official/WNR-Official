@@ -39,7 +39,10 @@ That's it.
 ****************************
 
 <p align="left"><h2>To view My Resume Click below:</h2></p>
-<img align="right" width="450" height="250" src="https://github.com/user-attachments/assets/3384b601-02a8-461a-9928-f6ba9e41e613" />
+
+
+<img align="right" width="450" src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+
 <p align="left"> <a href="CV WALEED_pages-to-jpg-0001.jpg" target="blank"><img  src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-2.gif" height="180" alt="wnr"  /></a></p>
 <p align="left">Click to catch visuals.</p>
 
