@@ -41,7 +41,7 @@ That's it.
 <p align="left"><h2>To view My Resume Click below:</h2></p>
 
 
-<img align="right" width="450" src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+<img align="right" width="" src="https://quotes-github-readme.vercel.app/api?type=horizontalcolor=Ff356f" />
 
 <p align="left"> <a href="CV WALEED_pages-to-jpg-0001.jpg" target="blank"><img  src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-2.gif" height="180" alt="wnr"  /></a></p>
 <p align="left">Click to catch visuals.</p>
@@ -165,6 +165,6 @@ ____________________
 
 <h>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=5000&color=39ff14&center=true&vCenter=true&width=750&lines=looking+for+more+❓;Stay+tuned+for+more+exciting+projects+!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=5000&color=Add8e6&center=true&vCenter=true&width=750&lines=looking+for+more+❓;Stay+tuned+for+more+exciting+projects+!+🚀)](https://git.io/typing-svg)
 
 </h1>
