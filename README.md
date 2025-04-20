@@ -72,7 +72,7 @@ That's it.
 - E-mail -> wnr2901@gmail.com
 - school E-mail -> l246023@lhr.nu.edu.pk
 
-- 📄 Know about my experiences [(cv.waleed.pdf)](https://github.com/W-N-R/W-N-R/blob/main/CV%20WALEED_pages-to-jpg-0001.jpg)
+- 📄 Know about my experiences [(cv.waleed.pdf)](https://github.com/W-N-R/W-N-R/blob/main/Muhammad%20Waleed%20Resume.pdf)
 </div>
 
 
