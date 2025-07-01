@@ -86,72 +86,78 @@ That's it.
 </p>
 
 
-____________________
 
 
 
-<h1 align="left">Languages and Tools:</h1>
+
+<h1 align="left"> Languages </h1>
 
 
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(2).png" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(2).png" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="12" />
-  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com.png" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(3).png" height="40" alt="csharp logo"  />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(5)%20-%20Copy.png" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(4)%20-%20Copy.png" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="12" />
+
+</div>
+
+<h1 align="left"> Tools </h1>
+
+<div align="left">
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com.png" height="50" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(3).png" height="50" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(4)%20-%20Copy.png" height="50" alt="csharp logo"  />
   <img width="12" /> 
-  <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" height="40" alt="photoshop"  />
+  <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" height="50" alt="photoshop"  />
   <img width="12" />
-  <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-5.png" height="40" alt="csharp logo"  />
+  <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-5.png" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-after-effects-logo-8.png" height="40" alt="csharp logo"  />
+  <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-after-effects-logo-8.png" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://logodownload.org/wp-content/uploads/2019/10/lightroom-logo.png" height="40" alt="csharp logo"  />
+  <img src="https://logodownload.org/wp-content/uploads/2019/10/lightroom-logo.png" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(9).png" height="50" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(8).png" height="50" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=autocad" height="50" alt="autocad logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(7)%20-%20Copy.png" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://th.bing.com/th/id/R.f267279f5acfa0e9496ca0afe5b70385?rik=%2fcbG3OWGpXeyKQ&pid=ImgRaw&r=0" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(5)%20-%20Copy.png" height="40" alt="csharp logo"  />
+  <img src="https://i.pinimg.com/originals/ea/27/eb/ea27eb4a6229bfa4fa24cee2e9547c01.png" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(9).png" height="40" alt="vscode logo"  />
+  <img src="https://th.bing.com/th/id/R.26be477e172b3fb46a32bd0ea83b199c?rik=WQJ6toOYBr9D6A&pid=ImgRaw&r=0" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(8).png" height="40" alt="visualstudio logo"  />
+  <img src="https://th.bing.com/th/id/R.363b1daf23f2519c75f703b8e0a1b34c?rik=JTOUhk8TWOIs%2fQ&pid=ImgRaw&r=0" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
+  <img src="https://logodownload.org/wp-content/uploads/2018/10/word-logo-3-1.png" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(7)%20-%20Copy.png" height="40" alt="csharp logo"  />
+  <img src="https://logodownload.org/wp-content/uploads/2019/08/github-logo-6.png" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://th.bing.com/th/id/R.f267279f5acfa0e9496ca0afe5b70385?rik=%2fcbG3OWGpXeyKQ&pid=ImgRaw&r=0" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://i.pinimg.com/originals/ea/27/eb/ea27eb4a6229bfa4fa24cee2e9547c01.png" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://th.bing.com/th/id/R.26be477e172b3fb46a32bd0ea83b199c?rik=WQJ6toOYBr9D6A&pid=ImgRaw&r=0" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://th.bing.com/th/id/R.363b1daf23f2519c75f703b8e0a1b34c?rik=JTOUhk8TWOIs%2fQ&pid=ImgRaw&r=0" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://logodownload.org/wp-content/uploads/2018/10/word-logo-3-1.png" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://logodownload.org/wp-content/uploads/2019/08/github-logo-6.png" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://logodownload.org/wp-content/uploads/2019/03/arduino-logo-1.png" height="40" alt="csharp logo"  />
+  <img src="https://logodownload.org/wp-content/uploads/2019/03/arduino-logo-1.png" height="50" alt="csharp logo"  />
   <img width="12" />
   
 
 </div>
 
-<h>
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=5000&color=Add8e6&center=true&vCenter=true&width=750&lines=looking+for+more+❓;Stay+tuned+for+more+exciting+projects+!+🚀)](https://git.io/typing-svg)
 
