@@ -60,6 +60,10 @@ That's it.
 
 - 💬 Ask me about **C++, logo designing, Graphic Designing, Web development**
 
+
+-------
+
+
 <h1 align="left">Connect with me:</h1>
 
 - 📫 How to reach me **waleednaeem133@gmail.com**
@@ -86,7 +90,7 @@ That's it.
 </p>
 
 
-
+-------
 
 
 
@@ -117,12 +121,6 @@ That's it.
 <h1 align="left"> Tools </h1>
 
 <div align="left">
-  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com.png" height="50" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(3).png" height="50" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(4)%20-%20Copy.png" height="50" alt="csharp logo"  />
-  <img width="12" /> 
   <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" height="50" alt="photoshop"  />
   <img width="12" />
   <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-5.png" height="50" alt="csharp logo"  />
@@ -131,6 +129,12 @@ That's it.
   <img width="12" />
   <img src="https://logodownload.org/wp-content/uploads/2019/10/lightroom-logo.png" height="50" alt="csharp logo"  />
   <img width="12" />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com.png" height="50" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(3).png" height="50" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(4)%20-%20Copy.png" height="50" alt="csharp logo"  />
+  <img width="12" /> 
   <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(9).png" height="50" alt="vscode logo"  />
   <img width="12" />
   <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(8).png" height="50" alt="visualstudio logo"  />
