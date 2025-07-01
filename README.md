@@ -103,6 +103,8 @@ ____________________
   <img width="12" />
   <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(3).png" height="40" alt="csharp logo"  />
   <img width="12" />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(4)%20-%20Copy.png" height="40" alt="csharp logo"  />
+  <img width="12" /> 
   <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" height="40" alt="photoshop"  />
   <img width="12" />
   <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-5.png" height="40" alt="csharp logo"  />
@@ -121,11 +123,15 @@ ____________________
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(5)%20-%20Copy.png" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(9).png" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(8).png" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
+  <img width="12" />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(7)%20-%20Copy.png" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://th.bing.com/th/id/R.f267279f5acfa0e9496ca0afe5b70385?rik=%2fcbG3OWGpXeyKQ&pid=ImgRaw&r=0" height="40" alt="csharp logo"  />
   <img width="12" />
