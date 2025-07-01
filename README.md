@@ -132,7 +132,7 @@ That's it.
   <img width="12" />
   <img src="https://logodownload.org/wp-content/uploads/2019/10/lightroom-logo.png" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://th.bing.com/th/id/R.f267279f5acfa0e9496ca0afe5b70385?rik=%2fcbG3OWGpXeyKQ&pid=ImgRaw&r=0" height="50" alt="csharp logo"  />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(3).png" height="50" alt="csharp logo"  />
   <img width="12" />
   <img src="https://i.pinimg.com/originals/ea/27/eb/ea27eb4a6229bfa4fa24cee2e9547c01.png" height="50" alt="csharp logo"  />
   <img width="12" />
@@ -146,7 +146,7 @@ That's it.
   <img width="12" />
   <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(7)%20-%20Copy.png" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(3).png" height="50" alt="csharp logo"  />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(2).png" height="50" alt="csharp logo"  />
   <img width="12" />
   <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(4)%20-%20Copy.png" height="50" alt="csharp logo"  />
   <img width="12" /> 
