@@ -36,6 +36,8 @@ That's it.
 <p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=W-N-R&theme=chartreuse-dark" width="95%"/> </a></p> 
 
 
+
+
 ****************************
 
 <p align="left"><h2>To view My Resume Click below:</h2></p>
@@ -89,9 +91,7 @@ ____________________
 
 
 <h1 align="left">Languages and Tools:</h1>
-<br>
 
-<img align="right" height="250" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"  />
 
 
 
@@ -108,26 +108,17 @@ ____________________
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://freepnglogo.com/images/all_img/1691746000capcut-logo%20(2).png" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" height="40" alt="csharp logo"  />
+  <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" height="40" alt="photoshop"  />
   <img width="12" />
   <img src="https://logodownload.org/wp-content/uploads/2019/10/lightroom-logo.png" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-5.png" height="40" alt="csharp logo"  />
-  <img width="12" />  
-  <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-5.png" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-after-effects-logo-8.png" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-dreamweaver-logo-5.png" height="40" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
   <img width="12" />
@@ -143,28 +134,13 @@ ____________________
   <img width="12" />
   <img src="https://logodownload.org/wp-content/uploads/2019/08/github-logo-6.png" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://th.bing.com/th/id/OIP.Lpvssxgd8iicAlR8pkx2YwHaHa?w=500&h=500&rs=1&pid=ImgDetMain" height="40" alt="csharp logo"  />
+  <img src="https://logodownload.org/wp-content/uploads/2019/03/arduino-logo-1.png" height="40" alt="csharp logo"  />
   <img width="12" />
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android"  height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"  height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"  height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" /> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"  height="40"/> </a>
-<a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs"  height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" /> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  height="40"/> </a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart"  height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"  height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" /> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" alt="illustrator" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"  height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"  height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/unity-logo.png" alt="unity"  height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal"  height="40"/>
-<img src="https://logodownload.org/wp-content/uploads/2018/05/autodesk-logo-8.png" height="40" alt="csharp logo"  />
-  <img src="https://logodownload.org/wp-content/uploads/2018/05/autocad-logo.png" height="40" alt="csharp logo"  /></a>
+  
+
 </div>
 
 <h>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=5000&color=Add8e6&center=true&vCenter=true&width=750&lines=looking+for+more+❓;Stay+tuned+for+more+exciting+projects+!+🚀)](https://git.io/typing-svg)
 
-</h1>
