@@ -78,7 +78,7 @@ That's it.
 - E-mail -> [![Email](https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:wnr2901@gmail.com)
 - school E-mail -> [![Email](https://img.shields.io/badge/📧_Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l246023@lhr.nu.edu.pk)
 
-- 📄 Know about my experiences [![CV](https://img.shields.io/badge/Professional_CV-008080?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://github.com/W-N-R/W-N-R/raw/main/CV_WALEED.pdf) [(cv.waleed.pdf)](https://github.com/W-N-R/W-N-R/blob/main/Muhammad%20Waleed%20Resume.jpg)
+- 📄 Know about my experiences [![CV](https://img.shields.io/badge/Professional_CV-008080?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://github.com/W-N-R/W-N-R/blob/main/Muhammad%20Waleed%20Resume.jpg) 
 </div>
 
 
