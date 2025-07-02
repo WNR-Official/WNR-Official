@@ -46,7 +46,7 @@ That's it.
 
 <img src="https://github-readme-stats.vercel.app/api?username=w-n-r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="160" alt="stats graph"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-n-r&theme=chartreuse-dark" height="160" alt="languages graph"  /> 
-<p align="center"> <a href="https://github.com/ryo-ma/github-W-N-R-trophy"><img src="https://github-profile-trophy.vercel.app/?username=W-N-R&theme=matrix" width="86%" alt="w-n-r"  /></a> </p> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-W-N-R-trophy"><img src="https://github-profile-trophy.vercel.app/?username=W-N-R&theme=matrix" width="88%" alt="w-n-r"  /></a> </p> 
 <p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=W-N-R&theme=chartreuse-dark" width="95%"/> </a></p> 
 
 
