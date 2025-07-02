@@ -99,7 +99,7 @@ That's it.
 
 
 <div align="left">
-  <img src="https://github.com/W-N-R/W-N-R/blob/main/pngwing.com%20(2).png" height="50" alt="csharp logo"  />
+  <img src="https://github.com/W-N-R/W-N-R/blob/main/eueu.png" height="50" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="12" />
