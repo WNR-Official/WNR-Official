@@ -22,12 +22,26 @@ That's it.
 <h2>Statistical figures</h2>
 
 ###
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=W-N-R&label=Profile%20views&color=1fc700&theme=dark" height="40" alt="w-n-r" /> </p>
 
   
 <p align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=w-n-r&theme=chartreuse-dark" width="410" /> </a></p>
   
  
+<p align="center">
+  <a href="https://github.com/W-N-R">
+    <img src="https://komarev.com/ghpvc/?username=W-N-R&label=PROFILE+VIEWS&color=1fc700&style=for-the-badge" height="40" alt="profile views"/>
+  </a>
+ &nbsp;
+  <a href="https://github.com/W-N-R?tab=followers">
+    <img src="https://img.shields.io/badge/👥_Followers-1fc700?style=for-the-badge" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/W-N-R">
+    <img src="https://img.shields.io/badge/Stars_⭐_⭐_⭐_-green?style=for-the-badge" height="40"/>
+  </a>
+</p>
+
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=w-n-r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="160" alt="stats graph"/>
@@ -189,9 +203,6 @@ That's it.
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/64abQDUC)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31suoxn4lj6dzdl6vwqqvgdbfbdq?si=b27129271b644a6e)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yourprofile)
-[![Profile Views](https://komarev.com/ghpvc/?username=W-N-R&label=PROFILE+VIEWS&color=brightgreen&style=flat)](https://github.com/W-N-R)
-[![Followers](https://img.shields.io/github/followers/W-N-R?label=FOLLOWERS&style=social)](https://github.com/W-N-R?tab=followers)
-[![Stars](https://img.shields.io/github/stars/W-N-R?label=TOTAL+STARS&color=gold&style=flat)](https://github.com/W-N-R)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/w_n_r)
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wnr.github.io)
 
