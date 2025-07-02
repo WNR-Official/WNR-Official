@@ -67,16 +67,16 @@ That's it.
 <h1 align="left">Connect with me:</h1>
 
 - 📫 How to reach me **waleednaeem133@gmail.com**
-- GitHub -> https://github.com/W-N-R
-- Instagram -> https://www.instagram.com/w.n.r..wali..01/
-- X-twitter -> https://x.com/wnr_wali_01
-- Gravatar -> https://gravatar.com/wnr01
-- Patreon -> https://www.patreon.com/c/W_N_R
-- Wordpress -> https://wnr01.wordpress.com/
-- Facebook -> https://www.facebook.com/waleed.naeem.5682
-- E-mail -> waleednaeem133@gmail.com
-- E-mail -> wnr2901@gmail.com
-- school E-mail -> l246023@lhr.nu.edu.pk
+- GitHub -> [![GitHub](https://img.shields.io/badge/Visit_My-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/W-N-R)
+- Instagram ->[![Instagram](https://img.shields.io/badge/📷_WNR_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/w.n.r._.wali._.01/)
+- X-twitter -> [![Twitter](https://img.shields.io/badge/🐦_WNR_Tweets-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wnr_wali_01)
+- Gravatar ->[![Gravatar](https://img.shields.io/badge/🖼_WNR's_Gravatar-1E1F20?style=for-the-badge&logo=gravatar&logoColor=00FF00)](https://gravatar.com/wnr01)
+- Patreon ->[![Patreon](https://img.shields.io/badge/❤_Support_My_Work-F96854?style=for-the-badge&logo=patreon&logoColor=black)](https://www.patreon.com/W_N_R)
+- Wordpress -> [![WordPress](https://img.shields.io/badge/✍️_WNR's_Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wnr01.wordpress.com/)
+- Facebook -> [![Facebook](https://img.shields.io/badge/👋_WNR_On_FB-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/waleed.naeem.5682)
+- E-mail ->[![Email](https://img.shields.io/badge/✉️_Professional_Contact-30B980?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:waleednaeem133@gmail.com)
+- E-mail -> [![Email](https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:wnr2901@gmail.com)
+- school E-mail -> [![Email](https://img.shields.io/badge/📧_Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l246023@lhr.nu.edu.pk)
 
 - 📄 Know about my experiences [(cv.waleed.pdf)](https://github.com/W-N-R/W-N-R/blob/main/Muhammad%20Waleed%20Resume.jpg)
 </div>
@@ -164,7 +164,60 @@ That's it.
 
 </div>
 
-
+------
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=5000&color=Add8e6&center=true&vCenter=true&width=750&lines=looking+for+more+❓;Stay+tuned+for+more+exciting+projects+!+🚀)](https://git.io/typing-svg)
 
+<!-- Add a "Buy Me a Coffee" button -->
+<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee">
+
+</a>
+
+
+<!-- Add a timezone indicator -->
+![UTC+5](https://img.shields.io/badge/UTC%2B5-Pakistan_Standard_Time-blue)
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/W-N-R)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wnr_wali_01)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/waleednaeem4)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/w_n_r)
+[![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/w-n-r)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@MuhammadWaleed)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/W-N-R)
+[![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@W-N-R)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/64abQDUC)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31suoxn4lj6dzdl6vwqqvgdbfbdq?si=b27129271b644a6e)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yourprofile)
+[![Profile Views](https://komarev.com/ghpvc/?username=W-N-R&label=PROFILE+VIEWS&color=brightgreen&style=flat)](https://github.com/W-N-R)
+[![Followers](https://img.shields.io/github/followers/W-N-R?label=FOLLOWERS&style=social)](https://github.com/W-N-R?tab=followers)
+[![Stars](https://img.shields.io/github/stars/W-N-R?label=TOTAL+STARS&color=gold&style=flat)](https://github.com/W-N-R)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/w_n_r)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wnr.github.io)
+
+----
+
+
+## 🌟 Wrapping Up...
+
+<div align="center">
+
+🎯 **Let's Build Something Amazing Together!** 🎯
+
+[![Visitors](https://komarev.com/ghpvc/?username=W-N-R&label=Profile%20views&color=1fc700&theme=dark)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FW-N-R)
+[![Last Updated](https://img.shields.io/github/last-commit/W-N-R/W-N-R?color=00ff7f&label=PROFILE%20UPDATED&style=flat-square&logo=github)](https://github.com/W-N-R/W-N-R/commits)
+
+<img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Keep+coding+keep+creating;See+you+in+the+next+commit...&font=Algerian" alt="Typing SVG" />
+
+```C++
+// GitHub Magic in Progress...
+
+#include <iostream>
+using namespace std;
+
+void createAwesome() {
+  while(true) {
+    const innovation = code + creativity;
+    return innovation * passion;
+  }
+}
