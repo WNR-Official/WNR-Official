@@ -24,8 +24,9 @@ That's it.
 ###
 
   
-<p align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=w-n-r&theme=chartreuse-dark" width="410" /> </a></p>
-  
+<p align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=w-n-r&theme=chartreuse-dark" width=40% /> </a></p>
+
+
  
 <p align="center">
   <a href="https://github.com/W-N-R">
@@ -44,10 +45,13 @@ That's it.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=w-n-r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="145" alt="stats graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-n-r&theme=chartreuse-dark" height="145" alt="languages graph"  /> 
-<p align="center"> <a href="https://github.com/ryo-ma/github-W-N-R-trophy"><img src="https://github-profile-trophy.vercel.app/?username=W-N-R&theme=matrix" width="88%" alt="w-n-r"  /></a> </p> 
-<p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=W-N-R&theme=chartreuse-dark" width="95%"/> </a></p> 
+<img src="https://github-readme-stats.vercel.app/api?username=w-n-r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" width=33% alt="stats graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-n-r&theme=chartreuse-dark" width=25% alt="languages graph"  /> 
+
+<img src="https://github-contributor-stats.vercel.app/api?username=w-n-r&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" width=25% alt="mngw" />
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-W-N-R-trophy"><img src="https://github-profile-trophy.vercel.app/?username=W-N-R&theme=matrix" width="92%" alt="w-n-r"  /></a> </p> 
+<p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=W-N-R&theme=chartreuse-dark" width="96%"/> </a></p> 
 
 
 
