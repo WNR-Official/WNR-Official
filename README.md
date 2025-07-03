@@ -30,15 +30,15 @@ That's it.
  
 <p align="center">
   <a href="https://github.com/W-N-R">
-    <img src="https://komarev.com/ghpvc/?username=W-N-R&label=PROFILE+VIEWS&color=1fc700&style=for-the-badge" height="40" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=W-N-R&label=PROFILE+VIEWS&color=1fc700&style=for-the-badge" width=28% alt="profile views"/>
   </a>
  &nbsp;
   <a href="https://github.com/W-N-R?tab=followers">
-    <img src="https://img.shields.io/badge/👥_Followers-1fc700?style=for-the-badge" height="40"/>
+    <img src="https://img.shields.io/badge/👥_Followers-1fc700?style=for-the-badge" width=20%/>
   </a>
   &nbsp;
   <a href="https://github.com/W-N-R">
-    <img src="https://img.shields.io/badge/Stars_⭐_⭐_⭐_-green?style=for-the-badge" height="40"/>
+    <img src="https://img.shields.io/badge/Stars_⭐_⭐_⭐_-green?style=for-the-badge" width=19% />
   </a>
 </p>
 
