@@ -110,8 +110,21 @@ That's it.
 ------
 
 
+# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 
+| **Programming Languages** | [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,arduino&theme=dark)](https://skillicons.dev) |
+|:---------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Frontend Development** |  [![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev) | 
+| **Backend Development**  |  [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) |
+| **Databases**            |  [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://skillicons.dev) |
+| **Softwares**            |  [![My Skills](https://skillicons.dev/icons?i=photoshop,aftereffects,illustrator,autocad,blender,matlab,github&theme=dark)](https://skillicons.dev)   |
+| **IDEs**                 |  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,atom,pycharm&theme=dark)](https://skillicons.dev)
+|**Gaming Engine's**       |  [![My Skills](https://skillicons.dev/icons?i=unity,unreal&theme=dark)](https://skillicons.dev)
+| **Others**               |  [![My Skills](https://skillicons.dev/icons?i=npm,bash,git,windows,gmail,gcp&theme=dark)](https://skillicons.dev)  |
+<br>
+
+<!--
 <h1 align="left"> Languages </h1>
 
 
@@ -181,7 +194,7 @@ That's it.
   
 
 </div>
-
+-->
 ------
   
 
