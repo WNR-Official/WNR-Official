@@ -25,8 +25,8 @@ That's it.
 
 
   
-<p align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=w-n-r&theme=chartreuse-dark" width=35% /> </a>
-<img src="https://github-contributor-stats.vercel.app/api?username=w-n-r&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" width=25% alt="mngw" />
+<p align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=w-n-r&theme=chartreuse-dark" width=32% /> </a>
+<img src="https://github-contributor-stats.vercel.app/api?username=w-n-r&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" width=23% alt="mngw" />
 
 </p>
 
@@ -49,10 +49,10 @@ That's it.
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=w-n-r&theme=chartreuse_dark" width=25% alt="stats graph"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=w-n-r&theme=chartreuse_dark&utcOffset=8" width=25% alt="languages graph"  /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=w-n-r&theme=chartreuse_dark" width=27% alt="stats graph"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=w-n-r&theme=chartreuse_dark&utcOffset=8" width=27% alt="languages graph"  /> 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=w-n-r&theme=chartreuse_dark" width=25% alt="mngw" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=w-n-r&theme=chartreuse_dark" width=27% alt="mngw" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-W-N-R-trophy"><img src="https://github-profile-trophy.vercel.app/?username=W-N-R&theme=matrix" width="88%" alt="w-n-r"  /></a> </p> 
 
@@ -203,11 +203,11 @@ That's it.
 </div>
 -->
 ------
-  
+  ## 🌟 Wrapping Up...
 
 <!-- Add a "Buy Me a Coffee" button -->
 <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width=5% alt="Buy Me A Coffee">
 
 </a>
 
@@ -233,16 +233,8 @@ That's it.
 ----
 
 
-## 🌟 Wrapping Up...
 
-<div align="center">
 
-🎯 **Let's Build Something Amazing Together!** 🎯
-
-[![Visitors](https://komarev.com/ghpvc/?username=W-N-R&label=Profile%20views&color=1fc700&theme=dark)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FW-N-R)
-[![Last Updated](https://img.shields.io/github/last-commit/W-N-R/W-N-R?color=00ff7f&label=PROFILE%20UPDATED&style=flat-square&logo=github)](https://github.com/W-N-R/W-N-R/commits)
-
-<img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Keep+coding+keep+creating;See+you+in+the+next+commit...&font=Algerian" alt="Typing SVG" />
 
 
 
@@ -284,3 +276,9 @@ graph TD
     GRAD --> FUTURE["🚀 Join R&D Role or Launch Product Startup"]
 
 ```
+<div align="center">
+
+
+
+<img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+exploring;See+you+next+time...&font=Algerian" alt="Typing SVG" />
+</div>
