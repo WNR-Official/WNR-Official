@@ -6,7 +6,7 @@
 <h2 align="center">An Ardent | Innovative Developer | Proudly Representing PAKISTAN 🇵🇰.</h2>
 
 
-<img align="right" height="250" src="https://github.com/user-attachments/assets/b5791886-6dc6-4a53-816c-f0b6e8ff4e64"  />
+<img align="right"  src="https://github.com/user-attachments/assets/b5791886-6dc6-4a53-816c-f0b6e8ff4e64" width=25% />
 
 <div align = "left">
 🚀 An innovative and visionary Electrical Engineer whose expertise encompasses robotics, front-end web development, graphic design, video editing, and 3D modeling using Blender 🌀. At the helm of WNR Production Studio, a production house renowned for its creativity and innovation, exceptional logo designs are meticulously crafted through the use of Photoshop 🎨 and Adobe Illustrator ✒️. These logos are developed with precision to establish unique brand identities and captivate audiences.
@@ -23,8 +23,12 @@ That's it.
 
 ###
 
+
   
-<p align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=w-n-r&theme=chartreuse-dark" width=40% /> </a></p>
+<p align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=w-n-r&theme=chartreuse-dark" width=35% /> </a>
+<img src="https://github-contributor-stats.vercel.app/api?username=w-n-r&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" width=25% alt="mngw" />
+
+</p>
 
 
  
@@ -45,25 +49,28 @@ That's it.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=w-n-r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" width=33% alt="stats graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-n-r&theme=chartreuse-dark" width=25% alt="languages graph"  /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=w-n-r&theme=chartreuse_dark" width=25% alt="stats graph"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=w-n-r&theme=chartreuse_dark&utcOffset=8" width=25% alt="languages graph"  /> 
 
-<img src="https://github-contributor-stats.vercel.app/api?username=w-n-r&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" width=25% alt="mngw" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=w-n-r&theme=chartreuse_dark" width=25% alt="mngw" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-W-N-R-trophy"><img src="https://github-profile-trophy.vercel.app/?username=W-N-R&theme=matrix" width="92%" alt="w-n-r"  /></a> </p> 
-<p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=W-N-R&theme=chartreuse-dark" width="96%"/> </a></p> 
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-W-N-R-trophy"><img src="https://github-profile-trophy.vercel.app/?username=W-N-R&theme=matrix" width="88%" alt="w-n-r"  /></a> </p> 
 
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=w-n-r&theme=chartreuse_dark" width=94% alt="GitHub Profile Summary" />
+</div>
+
+<p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=W-N-R&theme=chartreuse-dark" width=98% /> </a></p> 
 
 ****************************
 
 <p align="left"><h2>To view My Resume Click below:</h2></p>
 
 
-<img align="right" width="" src="https://quotes-github-readme.vercel.app/api?type=horizontalcolor=Ff356f" />
+<img align="right"  src="https://quotes-github-readme.vercel.app/api?type=horizontalcolor=Ff356f" width=20% />
 
-<p align="left"> <a href="CV WALEED_pages-to-jpg-0001.jpg" target="blank"><img  src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-2.gif" height="180" alt="wnr"  /></a></p>
+<p align="left"> <a href="CV WALEED_pages-to-jpg-0001.jpg" target="blank"><img  src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-2.gif" width=20% alt="wnr"  /></a></p>
 <p align="left">Click to catch visuals.</p>
 
 <p align="left"> <a href="https://www.instagram.com/w.n.r._.wali._.01/" target="blank"><img src="https://img.shields.io/twitter/follow/waleed naeem?logo=twitter&style=for-the-badge" width="200px" alt="waleed naeem" /></a> </p>
@@ -101,10 +108,10 @@ That's it.
 
 
 <p align="left">
-<a href="https://x.com/wnr_wali_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waleed naeem" height="30"  /></a>
-<a href="https://www.facebook.com/waleed.naeem.5682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waleed naeem" height="30"  /></a>
-<a href="https://instagram.com/w.n.r._.wali._.01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w.n.r._.wali._.01/" height="30"  /></a>
-<a href="https://www.youtube.com/@w.n.r._.wali._.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wnr" height="30"  /></a>
+<a href="https://x.com/wnr_wali_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waleed naeem" width=3%  /></a>
+<a href="https://www.facebook.com/waleed.naeem.5682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waleed naeem" width=3%  /></a>
+<a href="https://instagram.com/w.n.r._.wali._.01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w.n.r._.wali._.01/" width=3% /></a>
+<a href="https://www.youtube.com/@w.n.r._.wali._.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wnr" width=3%  /></a>
 </p>
 
 ------
@@ -237,15 +244,43 @@ That's it.
 
 <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Keep+coding+keep+creating;See+you+in+the+next+commit...&font=Algerian" alt="Typing SVG" />
 
-```C++
-// GitHub Magic in Progress...
 
-#include <iostream>
-using namespace std;
 
-void createAwesome() {
-  while(true) {
-    const innovation = code + creativity;
-    return innovation * passion;
-  }
-}
+## 🔮 Future Roadmap
+
+```mermaid
+graph TD
+    Start(["🎓 Current - BS Electrical Engineering (Computer Engg. Specialization)"])
+    
+     %% Core Branches
+    Start --> HW1["🔧 2025: Embedded Systems"]
+    Start --> AI1["🧠 2026: Explore AI for Hardware"]
+    Start --> WD1["🌐 2025: Build Portfolio"]
+    Start --> DS1["🎨 Design & Animation Freelance"]
+
+    %% Hardware Path
+    HW1 --> HW2["🛠 Arduino & IoT Projects"]
+    HW2 --> HW3["🤖 Smart Automation Prototypes"]
+
+    %% AI Path
+    AI1 --> AI2["📚 Learn ML for Microcontrollers"]
+    AI2 --> AI3["🔬 Build AI-Driven Devices"]
+
+    %% Web Dev Path
+    WD1 --> WD2["💻 Launch GitHub & Web Portfolio"]
+    WD2 --> WD3["📢 Share Projects on LinkedIn & Dev.to"]
+
+    %% Design Path
+    DS1 --> DS2["📸 Freelance via Blender, Canva, Figma"]
+    DS2 --> DS3["🏷 Build WNR as Tech+Design Studio"]
+
+    %% Convergence
+    HW3 --> GRAD["🎓 2028: Graduate from FAST-NUCES"]
+    AI3 --> GRAD
+    WD3 --> GRAD
+    DS3 --> GRAD
+
+    %% Post-Grad Goal
+    GRAD --> FUTURE["🚀 Join R&D Role or Launch Product Startup"]
+
+```
