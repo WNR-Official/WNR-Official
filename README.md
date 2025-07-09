@@ -25,23 +25,24 @@ That's it.
 
 
   
-<p align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=w-n-r&theme=chartreuse-dark" width=32% /> </a>
-<img src="https://github-contributor-stats.vercel.app/api?username=w-n-r&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" width=23% alt="mngw" />
+<p align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=WNR-Official&theme=chartreuse-dark" width=32% /> </a>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=WNR-Official&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" width=23% alt="mngw" />
 
 </p>
 
 
  
 <p align="center">
-  <a href="https://github.com/W-N-R">
+  <a href="https://github.com/WNR-Official">
     <img src="https://komarev.com/ghpvc/?username=W-N-R&label=PROFILE+VIEWS&color=1fc700&style=for-the-badge" width=28% alt="profile views"/>
   </a>
  &nbsp;
-  <a href="https://github.com/W-N-R?tab=followers">
+  <a href="https://github.com/WNR-Official?tab=followers">
     <img src="https://img.shields.io/badge/👥_Followers-1fc700?style=for-the-badge" width=20%/>
   </a>
   &nbsp;
-  <a href="https://github.com/W-N-R">
+  <a href="https://github.com/WNR-Official">
     <img src="https://img.shields.io/badge/Stars_⭐_⭐_⭐_-green?style=for-the-badge" width=19% />
   </a>
 </p>
@@ -49,19 +50,19 @@ That's it.
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=w-n-r&theme=chartreuse_dark" width=27% alt="stats graph"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=w-n-r&theme=chartreuse_dark&utcOffset=8" width=27% alt="languages graph"  /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WNR-Official&theme=chartreuse_dark" width=27% alt="stats graph"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WNR-Official&theme=chartreuse_dark&utcOffset=8" width=27% alt="languages graph"  /> 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=w-n-r&theme=chartreuse_dark" width=27% alt="mngw" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WNR-Official&theme=chartreuse_dark" width=27% alt="mngw" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-W-N-R-trophy"><img src="https://github-profile-trophy.vercel.app/?username=W-N-R&theme=matrix" width="88%" alt="w-n-r"  /></a> </p> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-WNR-Official-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WNR-Official&theme=matrix" width="88%" alt="w-n-r"  /></a> </p> 
 
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=w-n-r&theme=chartreuse_dark" width=94% alt="GitHub Profile Summary" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WNR-Official&theme=chartreuse_dark" width=94% alt="GitHub Profile Summary" />
 </div>
 
-<p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=W-N-R&theme=chartreuse-dark" width=98% /> </a></p> 
+<p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=WNR-Official&theme=chartreuse-dark" width=98% /> </a></p> 
 
 ****************************
 
@@ -92,13 +93,13 @@ That's it.
 <h1 align="left">Connect with me:</h1>
 
 - 📫 How to reach me **waleednaeem133@gmail.com**
-- GitHub -> [![GitHub](https://img.shields.io/badge/Visit_My-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/W-N-R)
-- Instagram ->[![Instagram](https://img.shields.io/badge/📷_WNR_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/w.n.r._.wali._.01/)
+- GitHub -> [![GitHub](https://img.shields.io/badge/Visit_My-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/WNR-Official)
+- Instagram ->[![Instagram](https://img.shields.io/badge/📷_WNR_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/w.n.r_official/)
 - X-twitter -> [![Twitter](https://img.shields.io/badge/🐦_WNR_Tweets-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wnr_wali_01)
 - Gravatar ->[![Gravatar](https://img.shields.io/badge/🖼_WNR's_Gravatar-1E1F20?style=for-the-badge&logo=gravatar&logoColor=00FF00)](https://gravatar.com/wnr01)
 - Patreon ->[![Patreon](https://img.shields.io/badge/❤_Support_My_Work-F96854?style=for-the-badge&logo=patreon&logoColor=black)](https://www.patreon.com/W_N_R)
 - Wordpress -> [![WordPress](https://img.shields.io/badge/✍️_WNR's_Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wnr01.wordpress.com/)
-- Facebook -> [![Facebook](https://img.shields.io/badge/👋_WNR_On_FB-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/waleed.naeem.5682)
+- Facebook -> [![Facebook](https://img.shields.io/badge/👋_WNR_On_FB-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/WNR.Official)
 - E-mail ->[![Email](https://img.shields.io/badge/✉️_Professional_Contact-30B980?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:waleednaeem133@gmail.com)
 - E-mail -> [![Email](https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:wnr2901@gmail.com)
 - school E-mail -> [![Email](https://img.shields.io/badge/📧_Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l246023@lhr.nu.edu.pk)
@@ -109,8 +110,8 @@ That's it.
 
 <p align="left">
 <a href="https://x.com/wnr_wali_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waleed naeem" width=3%  /></a>
-<a href="https://www.facebook.com/waleed.naeem.5682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waleed naeem" width=3%  /></a>
-<a href="https://instagram.com/w.n.r._.wali._.01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w.n.r._.wali._.01/" width=3% /></a>
+<a href="https://www.facebook.com/WNR.Official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waleed naeem" width=3%  /></a>
+<a href="https://www.instagram.com/w.n.r_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/w.n.r_official/" width=3% /></a>
 <a href="https://www.youtube.com/@w.n.r._.wali._.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wnr" width=3%  /></a>
 </p>
 
